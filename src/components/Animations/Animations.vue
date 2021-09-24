@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="item">
-      <iframe src="http://localhost:8080/astrotitle2" style="width: 100%; height: 300px;"></iframe>
+      <iframe src="http://localhost:8081/astrotitle2" style="width: 100%; height: 300px;"></iframe>
       <router-link to="astrotitle2" tag="div" class="link" ></router-link>
     </div>
   </div>
